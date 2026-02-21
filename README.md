@@ -11,9 +11,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-     <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/> 
      <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="40" height="40"/> 
      <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40" height="40"/> 
+     <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/>
      <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="40" height="40"/> 
      <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
 <br>
